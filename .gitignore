@@ -2,3 +2,23 @@
 AstronomComponent/target/
 
 **/target/**
+
+*.lst
+
+FunctionalRepositoryService/target/
+
+JsonPathSelectorComponent/target/
+
+JsonToModelComponent/target/
+
+RestConsumerComponent/target/
+
+TextFileOutputComponent/target/
+
+SQLExecutorComponent/target/
+
+RowFilterComponent/target/
+
+FunctionalModelMapperComponent/target/
+
+CSVFileLoaderComponent/target/

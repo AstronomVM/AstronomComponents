@@ -24,7 +24,6 @@
         <module>RowFilterComponent</module>
         <module>TextFileOutputComponent</module>
         <module>FunctionalModelMapperComponent</module>
-        <module>FunctionalRepositoryService</module>
         <module>SQLExecutorComponent</module>
         <module>RestConsumerComponent</module>
         <module>JsonPathSelectorComponent</module>
