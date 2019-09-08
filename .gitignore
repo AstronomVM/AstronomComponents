@@ -22,3 +22,5 @@ RowFilterComponent/target/
 FunctionalModelMapperComponent/target/
 
 CSVFileLoaderComponent/target/
+*.iml
+*.iml
